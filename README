@@ -1,19 +1,19 @@
-# Dreams Place
+**Dreams Place**
 
-## Le participant
+**Le participant**
 
 Stivens Boquez
 
-## Description
+**Description**
 
 Ici, vous pourrez trouver la signification de chaques lieux ou objets qui ce trouvaient dans votre rêve.
 Le but ici est de stocker plusieurs mots ou lieux qui pourrait ce présenter dans votre rêve ainsi que c'est différentes significations.
 On pourra donc en ajouter (des lieux/objets et signification), en supprimer et même rajouter quelque conseilles (ex: heure de sommeil à avoir minimum, etc)
 
-## Aspects implémentés
+**Aspects implémentés**
 
 Backend : Base de donnée (tables / datas) et API (Web services / procédures).
 
 Frontend : Interface Web (html / css / javascript).
 
-## Détail API (coming)
+**Détail API (coming)**
